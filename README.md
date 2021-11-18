@@ -11,3 +11,6 @@ There is Two input.
 The output will be dynamically created, display your country detailed weather today and what is your feeling today.
 
 That's It. 👋❤️
+
+![Weather-J](https://user-images.githubusercontent.com/59052288/142346035-624beb15-5d82-4e4e-bd27-68b08193c157.JPG)
+
