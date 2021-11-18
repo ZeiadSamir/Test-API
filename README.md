@@ -4,7 +4,7 @@ This Web-App Was Build With Html, Css and JavaScript node.js with calling API fr
 
 ## Features
 
-There is Two inputs.
+There are Two inputs.
 - First one, ask for your country zip-code.
 - Second one, take what is your feeling today.
 
